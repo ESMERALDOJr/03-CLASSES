@@ -1,0 +1,15 @@
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\03-CLASSES.exe
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\03-CLASSES.deps.json
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\03-CLASSES.runtimeconfig.json
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\03-CLASSES.dll
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\ref\03-CLASSES.dll
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\bin\Debug\net6.0\03-CLASSES.pdb
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.csproj.AssemblyReference.cache
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.AssemblyInfoInputs.cache
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.AssemblyInfo.cs
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.dll
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\ref\03-CLASSES.dll
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.pdb
+C:\Users\Esmeraldo Junior\CSharpDIO\03-CLASSES\obj\Debug\net6.0\03-CLASSES.genruntimeconfig.cache
